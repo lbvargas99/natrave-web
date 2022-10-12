@@ -2,6 +2,7 @@
 
 # Descrião
 Projeto realizado no evento Full Stack Challenge da Codar-me.
+Link para acessa-lo: https://lbweb-natrave.vercel.app/
 
 # Construído com
  - **React - React** é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.
